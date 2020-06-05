@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+#API contentful
+.env.development
+
 # production
 /build
 
