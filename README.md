@@ -1,3 +1,6 @@
+# This is my resort room template site using react and Contentful
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
